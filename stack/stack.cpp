@@ -2,9 +2,9 @@
 
 int main()
 {
-	stack st;
-	input(st);
-	output(st);
-	cout << pop(st) << endl;
-	cout << isEmpty(st);
+	stack st1, st2, st3;
+	input(st1);
+	input(st2);
+	cout << maxSelection(10, st1, st2);
+	return 0;
 }
