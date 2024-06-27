@@ -1,2 +1,4 @@
 - file 0.txt
+<<<<<<< HEAD
 - Da duoc chinh sua o branch master
+
